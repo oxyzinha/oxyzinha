@@ -64,6 +64,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/oxyzinha/oxyzinha/output/snake.svg" alt="Snake animation" />
-
 ###
